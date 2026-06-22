@@ -2,6 +2,12 @@
 
 This repository contains exercises, code snippets, and solutions based on the book **"MongoDB in Action"**.
 
+<p align="center">
+  <img src="" alt="MongoDb IN ACTION" width="300">
+</p>
+
+
+
 ### Key Topics:
 - [ ] Basic CRUD Operations
 - [ ] Data Modeling
