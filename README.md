@@ -16,3 +16,4 @@ This repository contains exercises, code snippets, and solutions based on the bo
 
 ---
 *This repository serves as a personal collection of practice exercises and learning notes for MongoDB.*
+
